@@ -62,3 +62,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+composer require inertiajs/inertia-laravel  //initialize intertia to the laravel
+
+npm install //for node_modules react main folder
+composer require laravel/ui  //default authentication system with react
+
+php artisan ui react //react scaff folding inside resource js files
+npm install && npm run dev
+
+npm install @inertiajs/progress
+npm install @babel/preset-react --save-dev
+npm cache clean --force
+
+
+
+
